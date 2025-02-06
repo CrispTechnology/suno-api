@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center"">
-      Suno AI API
+      CrispTech Prototype - "Suno AI" API
   </h1>
-  <p>Use API to call the music generation AI of Suno.ai and easily integrate it into agents like GPTs.</p>
+  <p>Use API to call the music generation AI of suno.crisptech.online and easily integrate it into agents like GPTs.</p>
   <p>👉 We update quickly, please star.</p>
 </div>
 <p align="center">
